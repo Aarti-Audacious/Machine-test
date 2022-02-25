@@ -1,0 +1,166 @@
+{
+  "Machine-testing-user": [
+    {
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "john.doe@example.email",
+      "password": "12345655",
+      "id": 1
+    },
+    {
+      "firstName": "Raayu",
+      "lastName": "more",
+      "email": "raayu.doe@example.email",
+      "password": "12346655",
+      "id": 2
+    },
+    {
+      "firstName": "hariom",
+      "lastName": "sharma",
+      "email": "hari@gmail.com",
+      "password": "12345678",
+      "confirmPwd": "",
+      "id": 3
+    },
+    {
+      "firstName": "roshni",
+      "lastName": "chand",
+      "email": "chand@gmail.com",
+      "password": "12345678",
+      "confirmPwd": "12345678",
+      "id": 4
+    },
+    {
+      "firstName": "rani",
+      "lastName": "yadav",
+      "email": "rani@gmail.com",
+      "password": "12345678",
+      "confirmPwd": "12345678",
+      "id": 5
+    },
+    {
+      "firstName": "rani",
+      "lastName": "yadav",
+      "email": "rani@gmail.com",
+      "password": "12345678",
+      "confirmPwd": "12345678",
+      "id": 6
+    },
+    {
+      "firstName": "rani",
+      "lastName": "yadav",
+      "email": "rani@gmail.com",
+      "password": "12345678",
+      "confirmPwd": "12345678",
+      "id": 7
+    },
+    {
+      "firstName": "aarti",
+      "lastName": "Richariya",
+      "email": "richariya@gmail.com",
+      "passwoard": "",
+      "id": 8
+    },
+    {
+      "email": "aarti.yadav@audacioustechnologies.com",
+      "password": "12345678",
+      "id": 9
+    },
+    {
+      "email": "aarti.yadav@audacioustechnologies.com",
+      "password": "12345678",
+      "id": 10
+    },
+    {
+      "firstName": "aarti",
+      "lastName": "yadav",
+      "email": "aarti.yadav@audacioustechnologies.com",
+      "passwoard": "",
+      "id": 11
+    },
+    {
+      "firstName": "aarti",
+      "lastName": "yadav",
+      "email": "aarti.yadav@audacioustechnologies.com",
+      "passwoard": "",
+      "id": 12
+    },
+    {
+      "firstName": "aarti",
+      "lastName": "yadav",
+      "email": "aarti.yadav@audacioustechnologies.com",
+      "passwoard": "",
+      "id": 13
+    },
+    {
+      "firstName": "aarti",
+      "lastName": "yadav",
+      "email": "aarti.yadav@audacioustechnologies.com",
+      "passwoard": "",
+      "id": 14
+    },
+    {
+      "firstName": "aarti",
+      "lastName": "yadav",
+      "email": "aarti.yadav@audacioustechnologies.com",
+      "passwoard": "",
+      "id": 15
+    },
+    {
+      "firstName": "aarti",
+      "lastName": "yadav",
+      "email": "aarti.yadav@audacioustechnologies.com",
+      "passwoard": "",
+      "id": 16
+    },
+    {
+      "firstName": "aarti",
+      "lastName": "yadav",
+      "email": "aarti.yadav@audacioustechnologies.com",
+      "passwoard": "",
+      "id": 17
+    },
+    {
+      "firstName": "aarti",
+      "lastName": "yadav",
+      "email": "aarti.yadav@audacioustechnologies.com",
+      "passwoard": "",
+      "id": 18
+    },
+    {
+      "firstName": "aarti",
+      "lastName": "yadav",
+      "email": "aarti.yadav@audacioustechnologies.com",
+      "passwoard": "",
+      "id": 19
+    },
+    {
+      "firstName": "suneet",
+      "lastName": "yadav",
+      "email": "suneet@gmail.com",
+      "passwoard": "",
+      "id": 20
+    },
+    {
+      "firstName": "suneet",
+      "lastName": "yadav",
+      "email": "suneet@gmail.com",
+      "passwoard": "",
+      "id": 21
+    },
+    {
+      "firstName": "suneet",
+      "lastName": "yadav",
+      "email": "suneet@gmail.com",
+      "passwoard": "",
+      "id": 22
+    },
+    {
+      "firstName": "hariom",
+      "lastName": "yadav",
+      "email": "hari@gmail.com",
+      "passwoard": "",
+      "id": 23
+    }
+  ]
+}
